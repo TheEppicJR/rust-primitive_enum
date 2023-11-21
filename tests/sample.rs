@@ -202,6 +202,7 @@ mod tests {
         B, // 1
         C, // 2
         D, // 3
+        #[default]
         E, // 4
         #[default]
         F, // 5
